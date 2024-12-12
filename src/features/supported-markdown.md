@@ -51,8 +51,3 @@ Both ordered and unordered lists can be created using Markdown syntax.
 ### Tables
 
 Tables can be created using Markdown syntax with pipes (`|`) and hyphens (`-`) to define the table structure.
-
-### Callouts
-
-Callouts can be created using the [Callouts](./callouts.md) feature. This allows you to create custom, styled callout boxes in Confluence.
-
